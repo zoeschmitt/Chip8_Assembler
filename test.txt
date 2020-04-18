@@ -1,9 +1,9 @@
-CLS
-SE r4, 176(r0)
-ADD r3, 177(r0)
-DRW r2, r4, r1
-LD r2, 8
-ADD r1, 252(r0)
-XOR r0, -8
-DRW r1, r1, r3
-LD r0, r0
+LD V0, V7
+SE V0, 0
+JP loop
+RND V7, 23
+ADD V7, 8
+LD V9, 254
+LD V8, 10
+LD V8, 4
+DRW V6, V7, 1
