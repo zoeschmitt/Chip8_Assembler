@@ -14,7 +14,7 @@ In command line execute the follwing command: python assembler.py test.txt
 
 ## Resources
 
-[Cowgods CHIP8 technical reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#00E0)
-[Craig Thomas's implementation of a CHIP8 assembler](https://github.com/craigthomas/Chip8Assembler)
-[Reed Foster's implementation of a simple assembler](https://hackaday.io/project/10576-mucpu-an-8-bit-mcu/log/36010-writing-an-assembler-in-python)
-[Gary sims implementation of a simple assembler](https://github.com/garyexplains/examples/blob/master/vASM.py)
+* [Cowgods CHIP8 technical reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM#00E0)
+* [Craig Thomas's implementation of a CHIP8 assembler](https://github.com/craigthomas/Chip8Assembler)
+* [Reed Foster's implementation of a simple assembler](https://hackaday.io/project/10576-mucpu-an-8-bit-mcu/log/36010-writing-an-assembler-in-python)
+* [Gary sims implementation of a simple assembler](https://github.com/garyexplains/examples/blob/master/vASM.py)
